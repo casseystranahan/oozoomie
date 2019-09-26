@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahthahpoam.availableimagination.com/sitemap.xml
